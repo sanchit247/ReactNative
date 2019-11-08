@@ -1,0 +1,4 @@
+dependencies: \
+  /Users/sanchit/Documents/RN/secondProject/node_modules/react-native/React/Profiler/RCTProfileTrampoline-i386.S \
+  /Users/sanchit/Documents/RN/secondProject/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/sanchit/Documents/RN/secondProject/node_modules/react-native/React/Profiler/RCTMacros.h
